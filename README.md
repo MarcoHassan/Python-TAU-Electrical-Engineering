@@ -6,4 +6,4 @@ This repository contains the weekly homeworks for the introductory class in Pyth
 
 The homeworks covers basic programming with built-in data structures to assignments that cover recursive programming, file handling, exception handling and object oriented programming.
 
-The class and homeworks aim at an understanding of Python language and its fundamentals and abstract from package applications.
+The class and homeworks aim at an understanding of Python language at its fundamentals and abstract from package applications.
